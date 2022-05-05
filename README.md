@@ -2,5 +2,5 @@
 test
 
 
-[test](/test/router)
-[test2](google.com)
+- [test](/test/router)
+- [test2](https://www.google.com)
